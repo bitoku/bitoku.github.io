@@ -4,7 +4,7 @@ module.exports = {
     entry: './src/js/app.js',
     output: {
         filename: '[name].bundle.js',
-        path: path.join(__dirname, 'dist/js')
+        path: path.join(__dirname, 'shared/js')
     },
     optimization: {
         splitChunks: {
