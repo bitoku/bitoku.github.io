@@ -1,6 +1,6 @@
 # Site settings
-title: My Awesome Site
-description: A description of my awesome site
+title: ブログ
+description: ブログ
 url: https://bitoku.github.io/
 baseurl: "" # Set this to the subpath of your site if it exists in a subdirectory (e.g. /blog)
 
