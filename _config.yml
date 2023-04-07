@@ -1,0 +1,11 @@
+# Site settings
+title: My Awesome Site
+description: A description of my awesome site
+url: https://bitoku.github.io/
+baseurl: "" # Set this to the subpath of your site if it exists in a subdirectory (e.g. /blog)
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
