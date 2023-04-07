@@ -6,6 +6,6 @@ baseurl: "" # Set this to the subpath of your site if it exists in a subdirector
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minimal
 plugins:
   - jekyll-feed
